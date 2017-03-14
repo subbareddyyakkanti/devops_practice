@@ -6,6 +6,6 @@ github changes
 pull conflicts
 pull conflicts from github
 push conflics from github
-
+fetch conflicts from gitbash
 
 push conflicts from gitbash
