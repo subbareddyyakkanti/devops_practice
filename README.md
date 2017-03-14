@@ -7,6 +7,7 @@ pull conflicts
 pull conflicts from github
 push conflics from github
 fetch conflicts from gitbash
+fetch conflicts form gitbash1
 
 push conflicts from gitbash
 fetch conflicts from github
