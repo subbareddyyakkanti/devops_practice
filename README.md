@@ -11,3 +11,4 @@ fetch conflicts form gitbash1
 
 push conflicts from gitbash
 fetch conflicts from github
+fetch conflicks from github1
