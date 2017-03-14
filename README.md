@@ -9,3 +9,4 @@ push conflics from github
 fetch conflicts from gitbash
 
 push conflicts from gitbash
+fetch conflicts from github
